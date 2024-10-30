@@ -7,7 +7,7 @@
 
   <h2>Languages and Utilities Used</h2>
 
-- <b>R</b>
+- <b>R-Studio, Excel and Microsoft Powerpoint</b>
 
 <h2>Environments Used </h2>
 
